@@ -1,1 +1,1 @@
-p
+print(list(range(10)))
